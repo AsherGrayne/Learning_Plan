@@ -1,0 +1,18 @@
+# Run from the Slides_examples folder
+.\run-slide.ps1 Slide_03_TraditionalVsStream
+.\run-slide.ps1 Slide_05_StreamPipeline
+.\run-slide.ps1 Slide_06_CreateStreams
+.\run-slide.ps1 Slide_08_FilterExample
+.\run-slide.ps1 Slide_09_MultipleFilters
+.\run-slide.ps1 Slide_10_MapExample
+.\run-slide.ps1 Slide_11_MapStrings
+.\run-slide.ps1 Slide_12_FlatMapExample
+.\run-slide.ps1 Slide_13_ReduceExample
+.\run-slide.ps1 Slide_14_CollectExample
+.\run-slide.ps1 Slide_16_ColToList
+.\run-slide.ps1 Slide_17_ColToSet
+.\run-slide.ps1 Slide_18_ColJoining
+.\run-slide.ps1 Slide_19_ColGroupingBy
+.\run-slide.ps1 Slide_20_StudentUseCase
+.\run-slide.ps1 Slide_21_TotalSalary
+.\run-slide.ps1 Slide_22_StreamVsLoop

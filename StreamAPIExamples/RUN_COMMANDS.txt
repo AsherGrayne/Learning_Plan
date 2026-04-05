@@ -1,0 +1,40 @@
+COMMANDS TO RUN EACH FILE IN ROOT FOLDER
+==========================================
+
+Run each command from: C:\Users\profe\Desktop\Practice JAVA\StreamAPIExamples
+
+01_CreateStream.java
+javac -d .. 01_CreateStream.java
+java -cp .. StreamAPIExamples.CreateStream01
+
+02_FilterExample.java
+javac -d .. 02_FilterExample.java
+java -cp .. StreamAPIExamples.FilterExample02
+
+03_MapExample.java
+javac -d .. 03_MapExample.java
+java -cp .. StreamAPIExamples.MapExample03
+
+04_FlatMapExample.java
+javac -d .. 04_FlatMapExample.java
+java -cp .. StreamAPIExamples.FlatMapExample04
+
+05_ReduceExample.java
+javac -d .. 05_ReduceExample.java
+java -cp .. StreamAPIExamples.ReduceExample05
+
+06_CollectExample.java
+javac -d .. 06_CollectExample.java
+java -cp .. StreamAPIExamples.CollectExample06
+
+07_CollectorsExamples.java
+javac -d .. 07_CollectorsExamples.java
+java -cp .. StreamAPIExamples.CollectorsExamples07
+
+08_RealWorldExample.java
+javac -d .. 08_RealWorldExample.java
+java -cp .. StreamAPIExamples.RealWorldExample08
+
+StreamVsTraditionalExample.java
+javac -d .. StreamVsTraditionalExample.java
+java -cp .. StreamAPIExamples.StreamVsTraditionalExample
